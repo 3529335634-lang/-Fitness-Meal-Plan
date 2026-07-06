@@ -24,10 +24,10 @@ export default function HomePage() {
     <MobileShell>
       <PageHeader title="今日概览" subtitle={`${targets.goalLabel} · 当前 ${data.goal.currentWeightKg}kg → 目标 ${data.goal.targetWeightKg}kg`} />
       <section className="px-5">
-        <div className="rounded-lg border border-zinc-200 bg-white p-4">
+        <div className="rounded-lg border border-teal-100 bg-[linear-gradient(135deg,#ffffff_0%,#ecfdf5_58%,#fff7ed_100%)] p-4 shadow-sm">
           <div className="flex items-center justify-between gap-4">
             <div>
-              <div className="text-sm text-zinc-500">今日完成率</div>
+              <div className="text-sm font-medium text-teal-700">今日完成率</div>
               <div className="mt-2 text-3xl font-semibold text-zinc-950">{rate}%</div>
               <p className="mt-2 text-sm leading-6 text-zinc-500">按热量、蛋白质和饮水综合估算。</p>
             </div>
@@ -45,7 +45,7 @@ export default function HomePage() {
 
       <section className="mt-5 px-5">
         <h2 className="mb-3 text-base font-semibold text-zinc-950">动态目标 vs 实际</h2>
-        <div className="space-y-2 rounded-lg border border-zinc-200 p-3">
+        <div className="space-y-2 rounded-lg border border-zinc-100 bg-white p-3 shadow-sm">
           {[
             ["热量", nutrientDelta(actual.calories, plan.calories), "kcal"],
             ["蛋白质", nutrientDelta(actual.protein, plan.protein), "g"],
@@ -64,10 +64,10 @@ export default function HomePage() {
       </section>
 
       <section className="mt-5 grid grid-cols-2 gap-3 px-5">
-        <Link href="/plan" className="h-12 rounded-lg bg-zinc-950 px-4 py-3 text-center font-medium text-white">
+        <Link href="/plan" className="h-12 rounded-lg bg-zinc-950 px-4 py-3 text-center font-medium text-white shadow-sm">
           记录计划
         </Link>
-        <Link href="/actual" className="h-12 rounded-lg bg-teal-600 px-4 py-3 text-center font-medium text-white">
+        <Link href="/actual" className="h-12 rounded-lg bg-teal-600 px-4 py-3 text-center font-medium text-white shadow-sm">
           记录实际
         </Link>
       </section>
