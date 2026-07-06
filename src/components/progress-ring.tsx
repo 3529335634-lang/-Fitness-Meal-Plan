@@ -13,13 +13,19 @@ export function ProgressRing({ value, label }: ProgressRingProps) {
   return (
     <div className="relative grid h-32 w-32 place-items-center">
       <svg viewBox="0 0 100 100" className="h-full w-full -rotate-90">
+        <defs>
+          <linearGradient id="progressGradient" x1="0" x2="1" y1="0" y2="1">
+            <stop offset="0%" stopColor="#22c55e" />
+            <stop offset="100%" stopColor="#14b8a6" />
+          </linearGradient>
+        </defs>
         <circle cx="50" cy="50" r="42" fill="none" stroke="#e5e7eb" strokeWidth="10" />
         <circle
           cx="50"
           cy="50"
           r="42"
           fill="none"
-          stroke="#14b8a6"
+          stroke="url(#progressGradient)"
           strokeLinecap="round"
           strokeWidth="10"
           strokeDasharray={circumference}
