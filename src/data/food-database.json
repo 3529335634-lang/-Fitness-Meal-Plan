@@ -1,0 +1,2262 @@
+[
+  {
+    "id": "sys-大米-raw",
+    "name": "大米",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 346,
+    "protein_per_100g": 7.4,
+    "fat_per_100g": 0.8,
+    "carbs_per_100g": 77.9,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-大米-cooked",
+    "name": "大米",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 124.6,
+    "protein_per_100g": 2.7,
+    "fat_per_100g": 0.3,
+    "carbs_per_100g": 28,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-糙米-raw",
+    "name": "糙米",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 348,
+    "protein_per_100g": 7.7,
+    "fat_per_100g": 2.7,
+    "carbs_per_100g": 75,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-糙米-cooked",
+    "name": "糙米",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 125.3,
+    "protein_per_100g": 2.8,
+    "fat_per_100g": 1,
+    "carbs_per_100g": 27,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-黑米-raw",
+    "name": "黑米",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 341,
+    "protein_per_100g": 9.4,
+    "fat_per_100g": 2.5,
+    "carbs_per_100g": 72.2,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-黑米-cooked",
+    "name": "黑米",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 122.8,
+    "protein_per_100g": 3.4,
+    "fat_per_100g": 0.9,
+    "carbs_per_100g": 26,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-小米-raw",
+    "name": "小米",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 361,
+    "protein_per_100g": 9,
+    "fat_per_100g": 3.1,
+    "carbs_per_100g": 75.1,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-小米-cooked",
+    "name": "小米",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 130,
+    "protein_per_100g": 3.2,
+    "fat_per_100g": 1.1,
+    "carbs_per_100g": 27,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-燕麦片-raw",
+    "name": "燕麦片",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 377,
+    "protein_per_100g": 15,
+    "fat_per_100g": 6.7,
+    "carbs_per_100g": 61.6,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-燕麦片-cooked",
+    "name": "燕麦片",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 135.7,
+    "protein_per_100g": 5.4,
+    "fat_per_100g": 2.4,
+    "carbs_per_100g": 22.2,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-玉米粒-raw",
+    "name": "玉米粒",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 112,
+    "protein_per_100g": 4,
+    "fat_per_100g": 1.2,
+    "carbs_per_100g": 22.8,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-玉米粒-cooked",
+    "name": "玉米粒",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 100.8,
+    "protein_per_100g": 3.6,
+    "fat_per_100g": 1.1,
+    "carbs_per_100g": 20.5,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-红薯-raw",
+    "name": "红薯",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 86,
+    "protein_per_100g": 1.6,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 20.1,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-红薯-cooked",
+    "name": "红薯",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 77.4,
+    "protein_per_100g": 1.4,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 18.1,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-紫薯-raw",
+    "name": "紫薯",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 82,
+    "protein_per_100g": 1.9,
+    "fat_per_100g": 0.1,
+    "carbs_per_100g": 19,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-紫薯-cooked",
+    "name": "紫薯",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 73.8,
+    "protein_per_100g": 1.7,
+    "fat_per_100g": 0.1,
+    "carbs_per_100g": 17.1,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-土豆-raw",
+    "name": "土豆",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 77,
+    "protein_per_100g": 2,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 17.2,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-土豆-cooked",
+    "name": "土豆",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 69.3,
+    "protein_per_100g": 1.8,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 15.5,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-山药-raw",
+    "name": "山药",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 57,
+    "protein_per_100g": 1.9,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 12.4,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-山药-cooked",
+    "name": "山药",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 51.3,
+    "protein_per_100g": 1.7,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 11.2,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-全麦面包-raw",
+    "name": "全麦面包",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 246,
+    "protein_per_100g": 9,
+    "fat_per_100g": 3.5,
+    "carbs_per_100g": 45,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-全麦面包-cooked",
+    "name": "全麦面包",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 246,
+    "protein_per_100g": 9,
+    "fat_per_100g": 3.5,
+    "carbs_per_100g": 45,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-馒头-raw",
+    "name": "馒头",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 223,
+    "protein_per_100g": 7,
+    "fat_per_100g": 1.1,
+    "carbs_per_100g": 47,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-馒头-cooked",
+    "name": "馒头",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 223,
+    "protein_per_100g": 7,
+    "fat_per_100g": 1.1,
+    "carbs_per_100g": 47,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-面条-raw",
+    "name": "面条",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 286,
+    "protein_per_100g": 8.3,
+    "fat_per_100g": 1.6,
+    "carbs_per_100g": 59.5,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-面条-cooked",
+    "name": "面条",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 103,
+    "protein_per_100g": 3,
+    "fat_per_100g": 0.6,
+    "carbs_per_100g": 21.4,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-荞麦面-raw",
+    "name": "荞麦面",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 337,
+    "protein_per_100g": 11.3,
+    "fat_per_100g": 2.7,
+    "carbs_per_100g": 67.2,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-荞麦面-cooked",
+    "name": "荞麦面",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 121.3,
+    "protein_per_100g": 4.1,
+    "fat_per_100g": 1,
+    "carbs_per_100g": 24.2,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-意大利面-raw",
+    "name": "意大利面",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 371,
+    "protein_per_100g": 13,
+    "fat_per_100g": 1.5,
+    "carbs_per_100g": 75,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-意大利面-cooked",
+    "name": "意大利面",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 133.6,
+    "protein_per_100g": 4.7,
+    "fat_per_100g": 0.5,
+    "carbs_per_100g": 27,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-米粉-raw",
+    "name": "米粉",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 348,
+    "protein_per_100g": 7.4,
+    "fat_per_100g": 0.8,
+    "carbs_per_100g": 78,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-米粉-cooked",
+    "name": "米粉",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 125.3,
+    "protein_per_100g": 2.7,
+    "fat_per_100g": 0.3,
+    "carbs_per_100g": 28.1,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-河粉-raw",
+    "name": "河粉",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 356,
+    "protein_per_100g": 6.8,
+    "fat_per_100g": 0.6,
+    "carbs_per_100g": 80,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-河粉-cooked",
+    "name": "河粉",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 128.2,
+    "protein_per_100g": 2.4,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 28.8,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-年糕-raw",
+    "name": "年糕",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 154,
+    "protein_per_100g": 3.3,
+    "fat_per_100g": 0.6,
+    "carbs_per_100g": 34.7,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-年糕-cooked",
+    "name": "年糕",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 154,
+    "protein_per_100g": 3.3,
+    "fat_per_100g": 0.6,
+    "carbs_per_100g": 34.7,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-藜麦-raw",
+    "name": "藜麦",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 368,
+    "protein_per_100g": 14.1,
+    "fat_per_100g": 6.1,
+    "carbs_per_100g": 64.2,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-藜麦-cooked",
+    "name": "藜麦",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 132.5,
+    "protein_per_100g": 5.1,
+    "fat_per_100g": 2.2,
+    "carbs_per_100g": 23.1,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-鹰嘴豆-raw",
+    "name": "鹰嘴豆",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 364,
+    "protein_per_100g": 19.3,
+    "fat_per_100g": 6,
+    "carbs_per_100g": 60.7,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-鹰嘴豆-cooked",
+    "name": "鹰嘴豆",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 131,
+    "protein_per_100g": 6.9,
+    "fat_per_100g": 2.2,
+    "carbs_per_100g": 21.9,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-鸡胸肉-raw",
+    "name": "鸡胸肉",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 133,
+    "protein_per_100g": 22,
+    "fat_per_100g": 5,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-鸡胸肉-cooked",
+    "name": "鸡胸肉",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 179.6,
+    "protein_per_100g": 29.7,
+    "fat_per_100g": 6.8,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-鸡腿肉-raw",
+    "name": "鸡腿肉",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 181,
+    "protein_per_100g": 16,
+    "fat_per_100g": 13,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-鸡腿肉-cooked",
+    "name": "鸡腿肉",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 244.4,
+    "protein_per_100g": 21.6,
+    "fat_per_100g": 17.6,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-鸡翅-raw",
+    "name": "鸡翅",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 194,
+    "protein_per_100g": 17.4,
+    "fat_per_100g": 13.5,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-鸡翅-cooked",
+    "name": "鸡翅",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 261.9,
+    "protein_per_100g": 23.5,
+    "fat_per_100g": 18.2,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-鸭胸肉-raw",
+    "name": "鸭胸肉",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 201,
+    "protein_per_100g": 23.5,
+    "fat_per_100g": 11.2,
+    "carbs_per_100g": 0,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-鸭胸肉-cooked",
+    "name": "鸭胸肉",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 271.4,
+    "protein_per_100g": 31.7,
+    "fat_per_100g": 15.1,
+    "carbs_per_100g": 0,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-瘦牛肉-raw",
+    "name": "瘦牛肉",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 125,
+    "protein_per_100g": 20.2,
+    "fat_per_100g": 4.2,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-瘦牛肉-cooked",
+    "name": "瘦牛肉",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 168.8,
+    "protein_per_100g": 27.3,
+    "fat_per_100g": 5.7,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-牛腱子-raw",
+    "name": "牛腱子",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 142,
+    "protein_per_100g": 20.1,
+    "fat_per_100g": 6.3,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-牛腱子-cooked",
+    "name": "牛腱子",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 191.7,
+    "protein_per_100g": 27.1,
+    "fat_per_100g": 8.5,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-牛里脊-raw",
+    "name": "牛里脊",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 136,
+    "protein_per_100g": 21,
+    "fat_per_100g": 5.5,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-牛里脊-cooked",
+    "name": "牛里脊",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 183.6,
+    "protein_per_100g": 28.4,
+    "fat_per_100g": 7.4,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-猪里脊-raw",
+    "name": "猪里脊",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 155,
+    "protein_per_100g": 20.2,
+    "fat_per_100g": 7.9,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-猪里脊-cooked",
+    "name": "猪里脊",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 209.3,
+    "protein_per_100g": 27.3,
+    "fat_per_100g": 10.7,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-猪瘦肉-raw",
+    "name": "猪瘦肉",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 143,
+    "protein_per_100g": 20.3,
+    "fat_per_100g": 6.2,
+    "carbs_per_100g": 1.5,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-猪瘦肉-cooked",
+    "name": "猪瘦肉",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 193.1,
+    "protein_per_100g": 27.4,
+    "fat_per_100g": 8.4,
+    "carbs_per_100g": 1.5,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-猪排-raw",
+    "name": "猪排",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 264,
+    "protein_per_100g": 18.3,
+    "fat_per_100g": 20.4,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-猪排-cooked",
+    "name": "猪排",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 356.4,
+    "protein_per_100g": 24.7,
+    "fat_per_100g": 27.5,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-羊腿肉-raw",
+    "name": "羊腿肉",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 164,
+    "protein_per_100g": 19,
+    "fat_per_100g": 9,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-羊腿肉-cooked",
+    "name": "羊腿肉",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 221.4,
+    "protein_per_100g": 25.7,
+    "fat_per_100g": 12.2,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-羊里脊-raw",
+    "name": "羊里脊",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 151,
+    "protein_per_100g": 20.5,
+    "fat_per_100g": 7.5,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-羊里脊-cooked",
+    "name": "羊里脊",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 203.9,
+    "protein_per_100g": 27.7,
+    "fat_per_100g": 10.1,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-虾仁-raw",
+    "name": "虾仁",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 48,
+    "protein_per_100g": 10.4,
+    "fat_per_100g": 0.8,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-虾仁-cooked",
+    "name": "虾仁",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 64.8,
+    "protein_per_100g": 14,
+    "fat_per_100g": 1.1,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-基围虾-raw",
+    "name": "基围虾",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 101,
+    "protein_per_100g": 18.2,
+    "fat_per_100g": 1.4,
+    "carbs_per_100g": 3.9,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-基围虾-cooked",
+    "name": "基围虾",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 136.4,
+    "protein_per_100g": 24.6,
+    "fat_per_100g": 1.9,
+    "carbs_per_100g": 3.9,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-鳕鱼-raw",
+    "name": "鳕鱼",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 88,
+    "protein_per_100g": 20,
+    "fat_per_100g": 0.7,
+    "carbs_per_100g": 0,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-鳕鱼-cooked",
+    "name": "鳕鱼",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 118.8,
+    "protein_per_100g": 27,
+    "fat_per_100g": 0.9,
+    "carbs_per_100g": 0,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-三文鱼-raw",
+    "name": "三文鱼",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 208,
+    "protein_per_100g": 20.4,
+    "fat_per_100g": 13.4,
+    "carbs_per_100g": 0,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-三文鱼-cooked",
+    "name": "三文鱼",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 280.8,
+    "protein_per_100g": 27.5,
+    "fat_per_100g": 18.1,
+    "carbs_per_100g": 0,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-金枪鱼-raw",
+    "name": "金枪鱼",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 109,
+    "protein_per_100g": 24.4,
+    "fat_per_100g": 0.5,
+    "carbs_per_100g": 0,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-金枪鱼-cooked",
+    "name": "金枪鱼",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 147.2,
+    "protein_per_100g": 32.9,
+    "fat_per_100g": 0.7,
+    "carbs_per_100g": 0,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-巴沙鱼-raw",
+    "name": "巴沙鱼",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 90,
+    "protein_per_100g": 15,
+    "fat_per_100g": 3,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-巴沙鱼-cooked",
+    "name": "巴沙鱼",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 121.5,
+    "protein_per_100g": 20.3,
+    "fat_per_100g": 4.1,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-带鱼-raw",
+    "name": "带鱼",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 127,
+    "protein_per_100g": 17.7,
+    "fat_per_100g": 4.9,
+    "carbs_per_100g": 3.1,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-带鱼-cooked",
+    "name": "带鱼",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 171.5,
+    "protein_per_100g": 23.9,
+    "fat_per_100g": 6.6,
+    "carbs_per_100g": 3.1,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-鲈鱼-raw",
+    "name": "鲈鱼",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 105,
+    "protein_per_100g": 18.6,
+    "fat_per_100g": 3.4,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-鲈鱼-cooked",
+    "name": "鲈鱼",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 141.8,
+    "protein_per_100g": 25.1,
+    "fat_per_100g": 4.6,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-鸡蛋-raw",
+    "name": "鸡蛋",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 143,
+    "protein_per_100g": 12.6,
+    "fat_per_100g": 9.5,
+    "carbs_per_100g": 0.7,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-鸡蛋-cooked",
+    "name": "鸡蛋",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 143,
+    "protein_per_100g": 12.6,
+    "fat_per_100g": 9.5,
+    "carbs_per_100g": 0.7,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-蛋清-raw",
+    "name": "蛋清",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 52,
+    "protein_per_100g": 10.9,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 0.7,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-蛋清-cooked",
+    "name": "蛋清",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 52,
+    "protein_per_100g": 10.9,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 0.7,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-蛋黄-raw",
+    "name": "蛋黄",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 322,
+    "protein_per_100g": 15.9,
+    "fat_per_100g": 26.5,
+    "carbs_per_100g": 3.6,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-蛋黄-cooked",
+    "name": "蛋黄",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 322,
+    "protein_per_100g": 15.9,
+    "fat_per_100g": 26.5,
+    "carbs_per_100g": 3.6,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-北豆腐-raw",
+    "name": "北豆腐",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 116,
+    "protein_per_100g": 9.2,
+    "fat_per_100g": 8.1,
+    "carbs_per_100g": 3,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-北豆腐-cooked",
+    "name": "北豆腐",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 116,
+    "protein_per_100g": 9.2,
+    "fat_per_100g": 8.1,
+    "carbs_per_100g": 3,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-南豆腐-raw",
+    "name": "南豆腐",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 87,
+    "protein_per_100g": 5.7,
+    "fat_per_100g": 5.8,
+    "carbs_per_100g": 3.3,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-南豆腐-cooked",
+    "name": "南豆腐",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 87,
+    "protein_per_100g": 5.7,
+    "fat_per_100g": 5.8,
+    "carbs_per_100g": 3.3,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-内酯豆腐-raw",
+    "name": "内酯豆腐",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 50,
+    "protein_per_100g": 5,
+    "fat_per_100g": 2,
+    "carbs_per_100g": 3,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-内酯豆腐-cooked",
+    "name": "内酯豆腐",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 50,
+    "protein_per_100g": 5,
+    "fat_per_100g": 2,
+    "carbs_per_100g": 3,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-豆腐干-raw",
+    "name": "豆腐干",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 152,
+    "protein_per_100g": 15.8,
+    "fat_per_100g": 7.8,
+    "carbs_per_100g": 4.3,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-豆腐干-cooked",
+    "name": "豆腐干",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 152,
+    "protein_per_100g": 15.8,
+    "fat_per_100g": 7.8,
+    "carbs_per_100g": 4.3,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-豆腐皮-raw",
+    "name": "豆腐皮",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 409,
+    "protein_per_100g": 44.6,
+    "fat_per_100g": 17.4,
+    "carbs_per_100g": 18.8,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-豆腐皮-cooked",
+    "name": "豆腐皮",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 409,
+    "protein_per_100g": 44.6,
+    "fat_per_100g": 17.4,
+    "carbs_per_100g": 18.8,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-黄豆-raw",
+    "name": "黄豆",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 390,
+    "protein_per_100g": 35,
+    "fat_per_100g": 16,
+    "carbs_per_100g": 34.2,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-黄豆-cooked",
+    "name": "黄豆",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 140.4,
+    "protein_per_100g": 12.6,
+    "fat_per_100g": 5.8,
+    "carbs_per_100g": 12.3,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-黑豆-raw",
+    "name": "黑豆",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 381,
+    "protein_per_100g": 36,
+    "fat_per_100g": 15.9,
+    "carbs_per_100g": 33.6,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-黑豆-cooked",
+    "name": "黑豆",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 137.2,
+    "protein_per_100g": 13,
+    "fat_per_100g": 5.7,
+    "carbs_per_100g": 12.1,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-红豆-raw",
+    "name": "红豆",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 324,
+    "protein_per_100g": 20.2,
+    "fat_per_100g": 0.6,
+    "carbs_per_100g": 63.4,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-红豆-cooked",
+    "name": "红豆",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 116.6,
+    "protein_per_100g": 7.3,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 22.8,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-绿豆-raw",
+    "name": "绿豆",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 329,
+    "protein_per_100g": 21.6,
+    "fat_per_100g": 0.8,
+    "carbs_per_100g": 62,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-绿豆-cooked",
+    "name": "绿豆",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 118.4,
+    "protein_per_100g": 7.8,
+    "fat_per_100g": 0.3,
+    "carbs_per_100g": 22.3,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-毛豆-raw",
+    "name": "毛豆",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 131,
+    "protein_per_100g": 13.1,
+    "fat_per_100g": 5,
+    "carbs_per_100g": 10.5,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-毛豆-cooked",
+    "name": "毛豆",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 131,
+    "protein_per_100g": 13.1,
+    "fat_per_100g": 5,
+    "carbs_per_100g": 10.5,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-牛奶-raw",
+    "name": "牛奶",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 54,
+    "protein_per_100g": 3.4,
+    "fat_per_100g": 3.2,
+    "carbs_per_100g": 5,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-牛奶-cooked",
+    "name": "牛奶",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 54,
+    "protein_per_100g": 3.4,
+    "fat_per_100g": 3.2,
+    "carbs_per_100g": 5,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-脱脂牛奶-raw",
+    "name": "脱脂牛奶",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 34,
+    "protein_per_100g": 3.4,
+    "fat_per_100g": 0.1,
+    "carbs_per_100g": 5,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-脱脂牛奶-cooked",
+    "name": "脱脂牛奶",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 34,
+    "protein_per_100g": 3.4,
+    "fat_per_100g": 0.1,
+    "carbs_per_100g": 5,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-无糖酸奶-raw",
+    "name": "无糖酸奶",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 63,
+    "protein_per_100g": 3.5,
+    "fat_per_100g": 3.3,
+    "carbs_per_100g": 4.8,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-无糖酸奶-cooked",
+    "name": "无糖酸奶",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 63,
+    "protein_per_100g": 3.5,
+    "fat_per_100g": 3.3,
+    "carbs_per_100g": 4.8,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-希腊酸奶-raw",
+    "name": "希腊酸奶",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 97,
+    "protein_per_100g": 9,
+    "fat_per_100g": 5,
+    "carbs_per_100g": 3.6,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-希腊酸奶-cooked",
+    "name": "希腊酸奶",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 97,
+    "protein_per_100g": 9,
+    "fat_per_100g": 5,
+    "carbs_per_100g": 3.6,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-奶酪-raw",
+    "name": "奶酪",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 402,
+    "protein_per_100g": 25,
+    "fat_per_100g": 33,
+    "carbs_per_100g": 1.3,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-奶酪-cooked",
+    "name": "奶酪",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 402,
+    "protein_per_100g": 25,
+    "fat_per_100g": 33,
+    "carbs_per_100g": 1.3,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-乳清蛋白粉-raw",
+    "name": "乳清蛋白粉",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 400,
+    "protein_per_100g": 80,
+    "fat_per_100g": 6,
+    "carbs_per_100g": 8,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-乳清蛋白粉-cooked",
+    "name": "乳清蛋白粉",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 400,
+    "protein_per_100g": 80,
+    "fat_per_100g": 6,
+    "carbs_per_100g": 8,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-西兰花-raw",
+    "name": "西兰花",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 34,
+    "protein_per_100g": 2.8,
+    "fat_per_100g": 0.4,
+    "carbs_per_100g": 6.6,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-西兰花-cooked",
+    "name": "西兰花",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 27.2,
+    "protein_per_100g": 2.2,
+    "fat_per_100g": 0.3,
+    "carbs_per_100g": 5.3,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-菠菜-raw",
+    "name": "菠菜",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 28,
+    "protein_per_100g": 2.6,
+    "fat_per_100g": 0.3,
+    "carbs_per_100g": 4.5,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-菠菜-cooked",
+    "name": "菠菜",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 22.4,
+    "protein_per_100g": 2.1,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 3.6,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-生菜-raw",
+    "name": "生菜",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 16,
+    "protein_per_100g": 1.4,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 2.9,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-生菜-cooked",
+    "name": "生菜",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 12.8,
+    "protein_per_100g": 1.1,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 2.3,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-油麦菜-raw",
+    "name": "油麦菜",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 15,
+    "protein_per_100g": 1.4,
+    "fat_per_100g": 0.4,
+    "carbs_per_100g": 2.1,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-油麦菜-cooked",
+    "name": "油麦菜",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 12,
+    "protein_per_100g": 1.1,
+    "fat_per_100g": 0.3,
+    "carbs_per_100g": 1.7,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-白菜-raw",
+    "name": "白菜",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 20,
+    "protein_per_100g": 1.5,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 3.2,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-白菜-cooked",
+    "name": "白菜",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 16,
+    "protein_per_100g": 1.2,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 2.6,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-娃娃菜-raw",
+    "name": "娃娃菜",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 13,
+    "protein_per_100g": 1.9,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 2.4,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-娃娃菜-cooked",
+    "name": "娃娃菜",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 10.4,
+    "protein_per_100g": 1.5,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 1.9,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-上海青-raw",
+    "name": "上海青",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 18,
+    "protein_per_100g": 1.7,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 2.7,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-上海青-cooked",
+    "name": "上海青",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 14.4,
+    "protein_per_100g": 1.4,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 2.2,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-芹菜-raw",
+    "name": "芹菜",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 16,
+    "protein_per_100g": 0.8,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 3.9,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-芹菜-cooked",
+    "name": "芹菜",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 12.8,
+    "protein_per_100g": 0.6,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 3.1,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-黄瓜-raw",
+    "name": "黄瓜",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 16,
+    "protein_per_100g": 0.8,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 2.9,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-黄瓜-cooked",
+    "name": "黄瓜",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 12.8,
+    "protein_per_100g": 0.6,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 2.3,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-番茄-raw",
+    "name": "番茄",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 15,
+    "protein_per_100g": 0.9,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 3.3,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-番茄-cooked",
+    "name": "番茄",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 12,
+    "protein_per_100g": 0.7,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 2.6,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-胡萝卜-raw",
+    "name": "胡萝卜",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 39,
+    "protein_per_100g": 1,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 8.8,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-胡萝卜-cooked",
+    "name": "胡萝卜",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 31.2,
+    "protein_per_100g": 0.8,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 7,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-白萝卜-raw",
+    "name": "白萝卜",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 16,
+    "protein_per_100g": 0.8,
+    "fat_per_100g": 0.1,
+    "carbs_per_100g": 4,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-白萝卜-cooked",
+    "name": "白萝卜",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 12.8,
+    "protein_per_100g": 0.6,
+    "fat_per_100g": 0.1,
+    "carbs_per_100g": 3.2,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-洋葱-raw",
+    "name": "洋葱",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 40,
+    "protein_per_100g": 1.1,
+    "fat_per_100g": 0.1,
+    "carbs_per_100g": 9.3,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-洋葱-cooked",
+    "name": "洋葱",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 32,
+    "protein_per_100g": 0.9,
+    "fat_per_100g": 0.1,
+    "carbs_per_100g": 7.4,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-青椒-raw",
+    "name": "青椒",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 22,
+    "protein_per_100g": 1,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 5.4,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-青椒-cooked",
+    "name": "青椒",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 17.6,
+    "protein_per_100g": 0.8,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 4.3,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-彩椒-raw",
+    "name": "彩椒",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 31,
+    "protein_per_100g": 1,
+    "fat_per_100g": 0.3,
+    "carbs_per_100g": 6,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-彩椒-cooked",
+    "name": "彩椒",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 24.8,
+    "protein_per_100g": 0.8,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 4.8,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-蘑菇-raw",
+    "name": "蘑菇",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 24,
+    "protein_per_100g": 2.7,
+    "fat_per_100g": 0.1,
+    "carbs_per_100g": 4.1,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-蘑菇-cooked",
+    "name": "蘑菇",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 19.2,
+    "protein_per_100g": 2.2,
+    "fat_per_100g": 0.1,
+    "carbs_per_100g": 3.3,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-香菇-raw",
+    "name": "香菇",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 26,
+    "protein_per_100g": 2.2,
+    "fat_per_100g": 0.3,
+    "carbs_per_100g": 5.2,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-香菇-cooked",
+    "name": "香菇",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 20.8,
+    "protein_per_100g": 1.8,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 4.2,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-金针菇-raw",
+    "name": "金针菇",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 32,
+    "protein_per_100g": 2.4,
+    "fat_per_100g": 0.4,
+    "carbs_per_100g": 6,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-金针菇-cooked",
+    "name": "金针菇",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 25.6,
+    "protein_per_100g": 1.9,
+    "fat_per_100g": 0.3,
+    "carbs_per_100g": 4.8,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-杏鲍菇-raw",
+    "name": "杏鲍菇",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 31,
+    "protein_per_100g": 1.3,
+    "fat_per_100g": 0.1,
+    "carbs_per_100g": 8.3,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-杏鲍菇-cooked",
+    "name": "杏鲍菇",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 24.8,
+    "protein_per_100g": 1,
+    "fat_per_100g": 0.1,
+    "carbs_per_100g": 6.6,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-海带-raw",
+    "name": "海带",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 13,
+    "protein_per_100g": 1.2,
+    "fat_per_100g": 0.1,
+    "carbs_per_100g": 2.1,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-海带-cooked",
+    "name": "海带",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 10.4,
+    "protein_per_100g": 1,
+    "fat_per_100g": 0.1,
+    "carbs_per_100g": 1.7,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-紫菜-raw",
+    "name": "紫菜",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 250,
+    "protein_per_100g": 26.7,
+    "fat_per_100g": 1.1,
+    "carbs_per_100g": 44.1,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-紫菜-cooked",
+    "name": "紫菜",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 250,
+    "protein_per_100g": 26.7,
+    "fat_per_100g": 1.1,
+    "carbs_per_100g": 44.1,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-茄子-raw",
+    "name": "茄子",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 23,
+    "protein_per_100g": 1.1,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 4.9,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-茄子-cooked",
+    "name": "茄子",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 18.4,
+    "protein_per_100g": 0.9,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 3.9,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-西葫芦-raw",
+    "name": "西葫芦",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 19,
+    "protein_per_100g": 1.2,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 3.4,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-西葫芦-cooked",
+    "name": "西葫芦",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 15.2,
+    "protein_per_100g": 1,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 2.7,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-冬瓜-raw",
+    "name": "冬瓜",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 12,
+    "protein_per_100g": 0.4,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 2.6,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-冬瓜-cooked",
+    "name": "冬瓜",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 9.6,
+    "protein_per_100g": 0.3,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 2.1,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-南瓜-raw",
+    "name": "南瓜",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 23,
+    "protein_per_100g": 0.7,
+    "fat_per_100g": 0.1,
+    "carbs_per_100g": 5.3,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-南瓜-cooked",
+    "name": "南瓜",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 20.7,
+    "protein_per_100g": 0.6,
+    "fat_per_100g": 0.1,
+    "carbs_per_100g": 4.8,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-莲藕-raw",
+    "name": "莲藕",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 74,
+    "protein_per_100g": 1.9,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 17.2,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-莲藕-cooked",
+    "name": "莲藕",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 66.6,
+    "protein_per_100g": 1.7,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 15.5,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-苹果-raw",
+    "name": "苹果",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 52,
+    "protein_per_100g": 0.3,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 13.8,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-苹果-cooked",
+    "name": "苹果",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 52,
+    "protein_per_100g": 0.3,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 13.8,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-香蕉-raw",
+    "name": "香蕉",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 89,
+    "protein_per_100g": 1.1,
+    "fat_per_100g": 0.3,
+    "carbs_per_100g": 22.8,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-香蕉-cooked",
+    "name": "香蕉",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 89,
+    "protein_per_100g": 1.1,
+    "fat_per_100g": 0.3,
+    "carbs_per_100g": 22.8,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-橙子-raw",
+    "name": "橙子",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 47,
+    "protein_per_100g": 0.9,
+    "fat_per_100g": 0.1,
+    "carbs_per_100g": 11.8,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-橙子-cooked",
+    "name": "橙子",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 47,
+    "protein_per_100g": 0.9,
+    "fat_per_100g": 0.1,
+    "carbs_per_100g": 11.8,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-梨-raw",
+    "name": "梨",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 57,
+    "protein_per_100g": 0.4,
+    "fat_per_100g": 0.1,
+    "carbs_per_100g": 15.2,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-梨-cooked",
+    "name": "梨",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 57,
+    "protein_per_100g": 0.4,
+    "fat_per_100g": 0.1,
+    "carbs_per_100g": 15.2,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-葡萄-raw",
+    "name": "葡萄",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 69,
+    "protein_per_100g": 0.7,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 18.1,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-葡萄-cooked",
+    "name": "葡萄",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 69,
+    "protein_per_100g": 0.7,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 18.1,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-草莓-raw",
+    "name": "草莓",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 32,
+    "protein_per_100g": 0.7,
+    "fat_per_100g": 0.3,
+    "carbs_per_100g": 7.7,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-草莓-cooked",
+    "name": "草莓",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 32,
+    "protein_per_100g": 0.7,
+    "fat_per_100g": 0.3,
+    "carbs_per_100g": 7.7,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-蓝莓-raw",
+    "name": "蓝莓",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 57,
+    "protein_per_100g": 0.7,
+    "fat_per_100g": 0.3,
+    "carbs_per_100g": 14.5,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-蓝莓-cooked",
+    "name": "蓝莓",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 57,
+    "protein_per_100g": 0.7,
+    "fat_per_100g": 0.3,
+    "carbs_per_100g": 14.5,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-猕猴桃-raw",
+    "name": "猕猴桃",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 61,
+    "protein_per_100g": 1.1,
+    "fat_per_100g": 0.5,
+    "carbs_per_100g": 14.7,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-猕猴桃-cooked",
+    "name": "猕猴桃",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 61,
+    "protein_per_100g": 1.1,
+    "fat_per_100g": 0.5,
+    "carbs_per_100g": 14.7,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-西瓜-raw",
+    "name": "西瓜",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 30,
+    "protein_per_100g": 0.6,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 7.6,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-西瓜-cooked",
+    "name": "西瓜",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 30,
+    "protein_per_100g": 0.6,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 7.6,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-哈密瓜-raw",
+    "name": "哈密瓜",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 34,
+    "protein_per_100g": 0.8,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 8.2,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-哈密瓜-cooked",
+    "name": "哈密瓜",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 34,
+    "protein_per_100g": 0.8,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 8.2,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-芒果-raw",
+    "name": "芒果",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 60,
+    "protein_per_100g": 0.8,
+    "fat_per_100g": 0.4,
+    "carbs_per_100g": 15,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-芒果-cooked",
+    "name": "芒果",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 60,
+    "protein_per_100g": 0.8,
+    "fat_per_100g": 0.4,
+    "carbs_per_100g": 15,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-菠萝-raw",
+    "name": "菠萝",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 50,
+    "protein_per_100g": 0.5,
+    "fat_per_100g": 0.1,
+    "carbs_per_100g": 13.1,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-菠萝-cooked",
+    "name": "菠萝",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 50,
+    "protein_per_100g": 0.5,
+    "fat_per_100g": 0.1,
+    "carbs_per_100g": 13.1,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-牛油果-raw",
+    "name": "牛油果",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 160,
+    "protein_per_100g": 2,
+    "fat_per_100g": 14.7,
+    "carbs_per_100g": 8.5,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-牛油果-cooked",
+    "name": "牛油果",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 160,
+    "protein_per_100g": 2,
+    "fat_per_100g": 14.7,
+    "carbs_per_100g": 8.5,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-花生-raw",
+    "name": "花生",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 567,
+    "protein_per_100g": 25.8,
+    "fat_per_100g": 49.2,
+    "carbs_per_100g": 16.1,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-花生-cooked",
+    "name": "花生",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 567,
+    "protein_per_100g": 25.8,
+    "fat_per_100g": 49.2,
+    "carbs_per_100g": 16.1,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-杏仁-raw",
+    "name": "杏仁",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 579,
+    "protein_per_100g": 21.2,
+    "fat_per_100g": 49.9,
+    "carbs_per_100g": 21.6,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-杏仁-cooked",
+    "name": "杏仁",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 579,
+    "protein_per_100g": 21.2,
+    "fat_per_100g": 49.9,
+    "carbs_per_100g": 21.6,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-核桃-raw",
+    "name": "核桃",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 646,
+    "protein_per_100g": 14.9,
+    "fat_per_100g": 58.8,
+    "carbs_per_100g": 19.1,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-核桃-cooked",
+    "name": "核桃",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 646,
+    "protein_per_100g": 14.9,
+    "fat_per_100g": 58.8,
+    "carbs_per_100g": 19.1,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-腰果-raw",
+    "name": "腰果",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 553,
+    "protein_per_100g": 18.2,
+    "fat_per_100g": 43.9,
+    "carbs_per_100g": 30.2,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-腰果-cooked",
+    "name": "腰果",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 553,
+    "protein_per_100g": 18.2,
+    "fat_per_100g": 43.9,
+    "carbs_per_100g": 30.2,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-开心果-raw",
+    "name": "开心果",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 560,
+    "protein_per_100g": 20.2,
+    "fat_per_100g": 45.3,
+    "carbs_per_100g": 27.2,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-开心果-cooked",
+    "name": "开心果",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 560,
+    "protein_per_100g": 20.2,
+    "fat_per_100g": 45.3,
+    "carbs_per_100g": 27.2,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-芝麻-raw",
+    "name": "芝麻",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 536,
+    "protein_per_100g": 18.4,
+    "fat_per_100g": 39.6,
+    "carbs_per_100g": 31.5,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-芝麻-cooked",
+    "name": "芝麻",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 536,
+    "protein_per_100g": 18.4,
+    "fat_per_100g": 39.6,
+    "carbs_per_100g": 31.5,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-奇亚籽-raw",
+    "name": "奇亚籽",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 486,
+    "protein_per_100g": 16.5,
+    "fat_per_100g": 30.7,
+    "carbs_per_100g": 42.1,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-奇亚籽-cooked",
+    "name": "奇亚籽",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 486,
+    "protein_per_100g": 16.5,
+    "fat_per_100g": 30.7,
+    "carbs_per_100g": 42.1,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-橄榄油-raw",
+    "name": "橄榄油",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 884,
+    "protein_per_100g": 0,
+    "fat_per_100g": 100,
+    "carbs_per_100g": 0,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-橄榄油-cooked",
+    "name": "橄榄油",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 884,
+    "protein_per_100g": 0,
+    "fat_per_100g": 100,
+    "carbs_per_100g": 0,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-花生油-raw",
+    "name": "花生油",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 884,
+    "protein_per_100g": 0,
+    "fat_per_100g": 100,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-花生油-cooked",
+    "name": "花生油",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 884,
+    "protein_per_100g": 0,
+    "fat_per_100g": 100,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-芝麻油-raw",
+    "name": "芝麻油",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 884,
+    "protein_per_100g": 0,
+    "fat_per_100g": 100,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-芝麻油-cooked",
+    "name": "芝麻油",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 884,
+    "protein_per_100g": 0,
+    "fat_per_100g": 100,
+    "carbs_per_100g": 0,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-酱油-raw",
+    "name": "酱油",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 53,
+    "protein_per_100g": 8.1,
+    "fat_per_100g": 0.1,
+    "carbs_per_100g": 4.9,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-酱油-cooked",
+    "name": "酱油",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 53,
+    "protein_per_100g": 8.1,
+    "fat_per_100g": 0.1,
+    "carbs_per_100g": 4.9,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-蚝油-raw",
+    "name": "蚝油",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 114,
+    "protein_per_100g": 2.9,
+    "fat_per_100g": 0.3,
+    "carbs_per_100g": 25,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-蚝油-cooked",
+    "name": "蚝油",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 114,
+    "protein_per_100g": 2.9,
+    "fat_per_100g": 0.3,
+    "carbs_per_100g": 25,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-番茄酱-raw",
+    "name": "番茄酱",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 112,
+    "protein_per_100g": 1.3,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 26,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-番茄酱-cooked",
+    "name": "番茄酱",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 112,
+    "protein_per_100g": 1.3,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 26,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-蜂蜜-raw",
+    "name": "蜂蜜",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 304,
+    "protein_per_100g": 0.3,
+    "fat_per_100g": 0,
+    "carbs_per_100g": 82.4,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-蜂蜜-cooked",
+    "name": "蜂蜜",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 304,
+    "protein_per_100g": 0.3,
+    "fat_per_100g": 0,
+    "carbs_per_100g": 82.4,
+    "source": "USDA FoodData Central"
+  },
+  {
+    "id": "sys-白砂糖-raw",
+    "name": "白砂糖",
+    "raw_or_cooked": "raw",
+    "kcal_per_100g": 400,
+    "protein_per_100g": 0,
+    "fat_per_100g": 0,
+    "carbs_per_100g": 100,
+    "source": "中国食物成分表"
+  },
+  {
+    "id": "sys-白砂糖-cooked",
+    "name": "白砂糖",
+    "raw_or_cooked": "cooked",
+    "kcal_per_100g": 400,
+    "protein_per_100g": 0,
+    "fat_per_100g": 0,
+    "carbs_per_100g": 100,
+    "source": "中国食物成分表"
+  }
+]
