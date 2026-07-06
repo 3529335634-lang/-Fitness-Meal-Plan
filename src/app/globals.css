@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 :root {
-  --background: #f4f4f5;
+  --background: #f7f8f4;
   --foreground: #18181b;
 }
 
@@ -15,7 +15,7 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, "Microsoft YaHei", "PingFang SC", Helvetica, sans-serif;
 }
 
 input,
@@ -27,4 +27,17 @@ button {
 button,
 a {
   -webkit-tap-highlight-color: transparent;
+}
+
+input,
+select {
+  background: #ffffff;
+  transition: border-color 160ms ease, box-shadow 160ms ease, background-color 160ms ease;
+}
+
+input:focus,
+select:focus {
+  border-color: #14b8a6;
+  box-shadow: 0 0 0 3px rgba(20, 184, 166, 0.16);
+  outline: none;
 }
